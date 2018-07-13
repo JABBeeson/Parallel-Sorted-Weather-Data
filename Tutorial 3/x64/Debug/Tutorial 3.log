@@ -1,0 +1,9 @@
+﻿  Tutorial 3.cpp
+Tutorial 3.cpp(75): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+Tutorial 3.cpp(163): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Tutorial 3.cpp(198): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Tutorial 3.vcxproj -> E:\Yr3\Parallel\WeatherParallelProcessing\x64\Debug\Tutorial 3.exe
+  Tutorial 3.vcxproj -> E:\Yr3\Parallel\WeatherParallelProcessing\x64\Debug\Tutorial 3.pdb (Full PDB)
+  my_kernels3.cl
+  Weather_Kernels.cl
+          2 file(s) copied.
